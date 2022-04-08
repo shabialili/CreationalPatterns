@@ -1,0 +1,8 @@
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe.config
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.pdb
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.exe
+C:\Users\Shebnem\source\repos\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.pdb
